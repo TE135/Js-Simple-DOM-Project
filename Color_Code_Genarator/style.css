@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: Arial,sans-serif;
+}
+#color_box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    margin: 0 auto;
+}
+button{
+    background-color: rgb(27, 200, 234);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(116, 11, 181);
+}
